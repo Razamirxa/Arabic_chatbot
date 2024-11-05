@@ -1,5 +1,4 @@
 import streamlit as st
-from streamlit_chat import message
 from langchain_community.document_loaders import PyMuPDFLoader
 from langchain_community.document_loaders import TextLoader
 from langchain.document_loaders import Docx2txtLoader
