@@ -6,6 +6,7 @@ sentence-transformers
 pinecone-client
 python-dotenv
 pymupdf
-langchain-pinecone pinecone-notebooks
+langchain-pinecone 
+pinecone-notebooks
 langchain-google-genai
 langchain-huggingface
